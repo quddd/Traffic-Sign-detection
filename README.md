@@ -5,7 +5,7 @@
  **Opencv version**: 3.0
  
  - Input: image containing a traffic signs
- - Output: image copy with the appropriate label
+ - Output: image copy with the appropriate traffic sign label
  
  ## How to Run:
 	navigate to python folder and run:
